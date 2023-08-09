@@ -7,6 +7,7 @@ This script is designed for deploying Docker images to remote servers over SSH. 
 1. Docker Engine installed both on the local system and the server
 2. Remote server SSH access from the local system
 3. Docker images should be present on the Docker Hub
+4. Web project where will be deployed
 
 ## File Structure
 
