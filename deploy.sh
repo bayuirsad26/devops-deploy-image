@@ -1,4 +1,4 @@
-# deployment.sh
+# deploy.sh
 #!/usr/bin/env bash
 
 # Load configuration and utility functions
